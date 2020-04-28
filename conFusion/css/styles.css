@@ -35,7 +35,7 @@ body {
 }
 
 .navbar-dark {
-  background-color: #512DA8;
+  background-color: rgb(255, 8, 8);
 }
 
 .tab-content {
@@ -46,7 +46,7 @@ body {
 }
 
 .carousel {
-  background: #512DA8;
+  background: rgb(238, 7, 134);
 }
 
 .carousel .carousel-item {
@@ -69,5 +69,17 @@ body {
 
 
 #modalheader1 {
-  background-color: #512da8;
+  background-color: #1612dd;
+}
+
+#modalHeader2 {
+  background-color: rgb(46, 0, 253);
+}
+
+#modal-body2 {
+  background-color: rgb(73, 198, 207);
+}
+
+#modal-body1 {
+  background-color: rgb(73, 198, 207);
 }
