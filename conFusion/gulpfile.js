@@ -44,7 +44,9 @@ gulp.task('default', ['browser-sync'], function () {
     gulp.start('sass:watch');
 });
 
-
+// gulp.task('default', gulp.series('browser-sync', function () {
+//     gulp.start('sass:watch');
+// }));
 
 // Clean
 gulp.task('clean', function () {
